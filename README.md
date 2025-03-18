@@ -1,6 +1,8 @@
 # Intrumento de evaluacion unidad 2
 
 ## Ejercicio 40 sensores
+### [Codigos](https://github.com/RamirezLuisManuel/IoT-unidad-2/tree/main/Diagramas%20de%20conexion%20(circuitos))
+### [Flujo de node-red](https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Flujo%20de%20node-red/Todos%20los%20flujos.json)
 ### Videos demostrativos y diagramas de conexion
 1. [KY-001-SensorTemperatura](https://drive.google.com/file/d/1n1m2UdBV2cWrUkkIEG9vW55JPZdltURF/view?usp=drive_link)<br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Diagramas%20de%20conexion%20(circuitos)/KY-001.png?raw=true"/><br>
 2. [KY-002 Sensor de vibracion](https://drive.google.com/file/d/1C0AFxggJrOOPK5FdNnPV14pzByt8tj-R/view?usp=sharing)<br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Diagramas%20de%20conexion%20(circuitos)/KY-002%20Sensor%20de%20vibracion.png?raw=true"/><br>
@@ -42,5 +44,19 @@
 38. [MQ-7](https://drive.google.com/file/d/1BWMI80wE82v_G3IDqzHukWUXQgmajxaQ/view?usp=sharing)<br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Diagramas%20de%20conexion%20(circuitos)/MQ-7.png?raw=true"/><br>
 39. [Sensor de agua](https://drive.google.com/file/d/1C-I7tz3LnNJpOP9qtAL-Uok0r0uCZBrZ/view?usp=sharing)<br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Diagramas%20de%20conexion%20(circuitos)/Sensor%20del%20nivel%20de%20agua.png?raw=true"/><br>
 
- ### [Flujo de node-red]()
+## Actividad de soldadura
+### [Codigo]()
+### [Video demostrativo]()
+<br><img width="500" src=""/><br>
+
+## Curso de netacad
+### Modulo 1
+<br><img width="500" src=""/><br>
+### Modulo 2
+<br><img width="500" src=""/><br>
+### Modulo 3
+<br><img width="500" src=""/><br>
+### Modulo 4
+<br><img width="500" src=""/><br>
+
  
