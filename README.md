@@ -46,7 +46,7 @@
 
 ## Actividad de soldadura
 ### [Codigo](https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Actividad%20de%20soldadura/leds%20soldados.py)
-### [Video demostrativo]()
+### [Video demostrativo](https://drive.google.com/file/d/1DK1DQLsJnkwU1sHQ1Dz5slN2YCmtGPDV/view?usp=sharing)
 <br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Actividad%20de%20soldadura/Actividad%20soldadura%20img1.jpg?raw=true"/><br>
 <br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Actividad%20de%20soldadura/Actividad%20soldadura%20img2.jpg?raw=true"/><br>
 <br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Actividad%20de%20soldadura/Actividad%20soldadura%20img3.jpg?raw=true"/><br>
