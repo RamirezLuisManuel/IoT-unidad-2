@@ -45,9 +45,11 @@
 39. [Sensor de agua](https://drive.google.com/file/d/1C-I7tz3LnNJpOP9qtAL-Uok0r0uCZBrZ/view?usp=sharing)<br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Diagramas%20de%20conexion%20(circuitos)/Sensor%20del%20nivel%20de%20agua.png?raw=true"/><br>
 
 ## Actividad de soldadura
-### [Codigo]()
+### [Codigo](https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Actividad%20de%20soldadura/leds%20soldados.py)
 ### [Video demostrativo]()
-<br><img width="500" src=""/><br>
+<br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Actividad%20de%20soldadura/Actividad%20soldadura%20img1.jpg?raw=true"/><br>
+<br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Actividad%20de%20soldadura/Actividad%20soldadura%20img2.jpg?raw=true"/><br>
+<br><img width="500" src="https://github.com/RamirezLuisManuel/IoT-unidad-2/blob/main/Actividad%20de%20soldadura/Actividad%20soldadura%20img3.jpg?raw=true"/><br>
 
 ## Curso de netacad
 ### Modulo 1
